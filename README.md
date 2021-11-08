@@ -1,5 +1,5 @@
 # Todo List Project
-Esta é uma aplicação ReactJS desenvolvida para o gerenciamente de tarefas/afazeres do dia a dia, sendo um projeto desenvolvido como Desafio do curso Ignite ReactJS da Rocketseat.
+Esta é uma aplicação ReactJS desenvolvida para o gerenciamento de tarefas/afazeres do dia a dia, sendo um projeto desenvolvido como Desafio do curso Ignite ReactJS da Rocketseat.
 
 ## 📷 Demonstration
 <img src="./public/assets/Demonstration-Todo_List-ReactJS.gif" alt="Imagem de Demostração">
