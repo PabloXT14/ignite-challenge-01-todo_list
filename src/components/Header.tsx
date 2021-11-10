@@ -1,4 +1,5 @@
-import '../styles/header.scss'
+import '../styles/header.scss';
+
 
 export function Header() {
   return (

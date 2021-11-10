@@ -31,4 +31,4 @@ Esta é uma aplicação ReactJS desenvolvida para o gerenciamento de tarefas/afa
 * Obs: a página não está responsiva, o conteúdo só está adaptável para PC/Computador.
 
 ### 🏍 Deploy
-* Para rodar o deploy da aplicação acesse:<a href="https://react-todo-list-lake.vercel.app/" target="_blank">Link to Project</a> 
+* Para rodar o deploy da aplicação acesse: https://react-todo-list-lake.vercel.app/
