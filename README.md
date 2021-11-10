@@ -2,7 +2,7 @@
 Esta é uma aplicação ReactJS desenvolvida para o gerenciamento de tarefas/afazeres do dia a dia, sendo um projeto desenvolvido como Desafio do curso Ignite ReactJS da Rocketseat.
 
 ## 📷 Demonstration
-<img src="./public/assets/Demonstration-Todo_List-ReactJS.gif" alt="Imagem de Demostração">
+<img src="./src/assets/Demonstration-Todo_List-ReactJS.gif" alt="Imagem de Demostração">
 
 ## 🚀 Technologies
 ✔ HTML
@@ -28,4 +28,7 @@ Esta é uma aplicação ReactJS desenvolvida para o gerenciamento de tarefas/afa
     - `yarn dev` (executa a aplicação em modo de desenvolvimento), veja em qual porta o projeto é aberto para executar no seu browser, geralmente é _http://localhost:8080_
     - `yarn build` (executa a aplicação em modo de produção), após executar este comando você terá/poderá executar o arquivo `index.html` da pasta `dist` no seu browser.  
 
-* Obs: a página não está responsiva, o conteúdo só está adaptável para PC/Computador. 
+* Obs: a página não está responsiva, o conteúdo só está adaptável para PC/Computador.
+
+### 🏍 Deploy
+* Para rodar o deploy da aplicação acesse: 
